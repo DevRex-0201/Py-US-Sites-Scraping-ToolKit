@@ -1,4 +1,4 @@
-# Comprehensive Web Scraping and Data Management Toolkit: README
+# Comprehensive Web Scraping and Data Management Toolkit
 
 ## Overview
 
